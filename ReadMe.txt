@@ -1,10 +1,10 @@
-﻿Design Patterns
+#Design Patterns
 
 
 Eric Gamma, Richard Helm, Ralph Johnson ve John Vlissides 1995’te “Design Patterns : Elements of Reusable Object – Oriented Software” kitabını çıkarttılar. 
 Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
 
-Creational:
+**Creational**:
 Nesneleri yaratmakta kullanılan 5 adet tasarım kalıbı vardır.Yazılım sistemindeki nesnelerin yaratılışı hakkında yol gösterirler.
 
 -Factory Method Pattern: Oluşturmak istediğimiz sınıfın kendisinden bir örnek istemek yerine Factory Metod patterni sayesinde tek bir instance üzerinden gerekli nesnenin üretilmesini sağlamaktır.
@@ -19,7 +19,7 @@ Fabrika olarak düşünürsek, Factory Design Pattern sadece tek bir ürünün �
 
 -Prototype
 
-Structural:
+**Structural**:
 Nesneler arasındaki yapıları ifade eden ilişkilerden 7 adet tasarım kalıbı vardır
 
 -Adapter Pattern: Adaptör kalıp sadece bir class özel olan arayüzleri diğer sınıflarla uyumlu arayüzler haline getirir. Adaptörler uyumlu olmayan arayüzler sebebiyle birbirleri ile çalışamayan sınıflara da birbirleri ile çalışma imkanı sunarlar.
@@ -37,7 +37,7 @@ Nesneler arasındaki yapıları ifade eden ilişkilerden 7 adet tasarım kalıb�
 -Proxy Pattern
 
 
-Behavioral:
+**Behavioral**:
 
 Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluşturulan tasarımlardan 11 adet tasarım kalıbı vardır.
 
