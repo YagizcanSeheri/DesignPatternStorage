@@ -9,5 +9,14 @@ Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
 * Creational Design Patterns <br>
    * [Singleton](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/SingletonDesignPattern) <br>
    * [Factory Method](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/FactoryMethodPattern)
+   * Abstract Factory
+   * Builder
+   * Prototype
+
+* Structural Design Pattern
+  * [Adapter Pattern] (https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/AdapterDesignPattern)
+
+
+
 
 
