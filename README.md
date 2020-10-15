@@ -6,7 +6,7 @@ Tasarım desenleri spesifik problemlere spesifik çözümler sununan algoritmala
 Tasarım kalıplarını Eric Gamma, Richard Helm, Ralph Johnson ve John Vlissides 1995’te “Design Patterns : Elements of Reusable Object – Oriented Software” kitabını çıkarttılar. 
 Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
 
-1. Creational Design Patterns
-  1.1. Singleton
+1. Creational Design Patterns <br>
+  1.1. [Singleton](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/SingletonDesignPattern)
 
 
