@@ -8,15 +8,36 @@ Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
 
 * Creational Design Patterns <br>
    * [Singleton](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/SingletonDesignPattern) <br>
-   * [Factory Method](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/FactoryMethodPattern)
+   * [Factory Method](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/FactoryMethodPattern)<br>
    * Abstract Factory
-   * Builder
+   * [Builder Design Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/BuilderDesignPattern)<br>
    * Prototype
 
-* Structural Design Pattern
-  * [Adapter Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/AdapterDesignPattern)
-  * [Bridge Design Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/BridgeDesignPattern)
 
+* Structural Design Pattern<br>
+  * [Adapter Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/AdapterDesignPattern)<br>
+  * [Bridge Design Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/BridgeDesignPattern)<br>
+  * Composite Pattern
+  * Decorator Pattern
+  * Facade Pattern
+  * Flyweight Pattern
+  * Proxy Pattern
+  
+  
+  
+* Behavioral Design Pattern<br>
+
+  * Iterator Design Pattern
+  * Observer Design Pattern
+  * Chain of Responsibility Design Pattern
+  * Interpreter Design Pattern
+  * Command Design Pattern
+  * Memento Design Pattern
+  * Mediator Design Pattern
+  * State Design Pattern
+  * Template Method Design Pattern
+  * Strategy Design Pattern
+  * Visitor Design Pattern
 
 
 
