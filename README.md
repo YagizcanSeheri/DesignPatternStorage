@@ -1,4 +1,4 @@
-# DesignPatternStorage
+# *Design Patterns Storage*
 Bu depoda tasarım desenlerinin teorik bilgilerini ve bu teorik bilgilerin laboratuvar uygulamalarını bulabilirsiniz. Hem bir tasarım deseni için en az 3 laboratuvar uygulaması bulunmaktadır.
 
 ## Tasarım Desenleri (Design Patterns)
