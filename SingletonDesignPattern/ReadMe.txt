@@ -10,4 +10,4 @@
 
 -Bir başka mekanizmaya kontrollü erişmek istediğimizde, kontrol kapsamında singleton obje yaratabiliriz. Bu işlem muhakkak concrete sınıf içerisinde yapmalıyız. Bu desen sınıfın yanlızca bir kez başaltılmasını ve tüm isteklerin bu obje üzerinden yönlendirilmesi prensibine dayanır. Singleton deseninde instancesi alınan sınıftan yararlanan diğer sınıflar değil, sınıfın kendisi kısıtlmaların sağlanmasından sorumludur.
 
--Örneğin ay sonu maaş bordolarını hesaplamak için kullanılan bir nesnemiz var ve bu nesneyi sadece muhassebe biriminden bir kişi çağrıyor, bu senaryoda bu nesnenin örneklemini singleton ile üretmeliyiz.
+-Örneğin ay sonu maaş bordolarını hesaplamak için kullanılan bir nesnemiz var ve bu nesneyi sadece muhassebe biriminden bir kişi çağrıyor, bu senaryoda bu nesnenin örneklemini singleton ile üretmemeliyiz.
