@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Lab_1\SystemManager.cs" />
     <Compile Include="Lab_2\SingletonClass.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

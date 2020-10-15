@@ -48,6 +48,14 @@
     <Compile Include="Lab_1\Concrete\Product_A.cs" />
     <Compile Include="Lab_1\Concrete\Product_B.cs" />
     <Compile Include="Lab_1\Creators\ProductCreator.cs" />
+    <Compile Include="Lab_2\Abstraction\ILogger.cs" />
+    <Compile Include="Lab_2\Abstraction\ILoggerFactory.cs" />
+    <Compile Include="Lab_2\Concrete\PLSLogger.cs" />
+    <Compile Include="Lab_2\Concrete\PLSLoggerFactory.cs" />
+    <Compile Include="Lab_2\Concrete\SystemLogger.cs" />
+    <Compile Include="Lab_2\Concrete\SystemLoggerFactory.cs" />
+    <Compile Include="Lab_2\Creator\SystemManager.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

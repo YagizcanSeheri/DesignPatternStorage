@@ -52,10 +52,14 @@
     <Compile Include="Lab_2\Concrete\HotmailSender.cs" />
     <Compile Include="Lab_2\MailStructure.cs" />
     <Compile Include="Lab_2\Manager.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

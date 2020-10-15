@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8CDC1179-24E1-47CF-A346-D74AE4391B3A}</ProjectGuid>
+    <ProjectGuid>{2B49E044-CFDA-408B-B149-72B1CAA4D78D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AdapterDesignPattern</RootNamespace>
-    <AssemblyName>AdapterDesignPattern</AssemblyName>
+    <RootNamespace>BuilderDesignPattern</RootNamespace>
+    <AssemblyName>BuilderDesignPattern</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,23 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lab_1\Abstraction\IHedef.cs" />
-    <Compile Include="Lab_1\Uyarlayici.cs" />
-    <Compile Include="Lab_1\Adaptor.cs" />
-    <Compile Include="Lab_2\Abstraction\ITarget.cs" />
-    <Compile Include="Lab_2\Concrete\Bagdastirici.cs" />
-    <Compile Include="Lab_2\Concrete\ConcreteAdapter.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Lab_1\Concrete\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
