@@ -7,6 +7,6 @@ Tasarım kalıplarını Eric Gamma, Richard Helm, Ralph Johnson ve John Vlisside
 Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
 
 1. Creational Design Patterns <br>
-  1. [Singleton](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/SingletonDesignPattern)
+  i. [Singleton](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/SingletonDesignPattern)
 
 
