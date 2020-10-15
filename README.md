@@ -14,7 +14,7 @@ Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
    * Prototype
 
 * Structural Design Pattern
-  * [Adapter Pattern] (https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/AdapterDesignPattern)
+  * [Adapter Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/AdapterDesignPattern)
 
 
 
