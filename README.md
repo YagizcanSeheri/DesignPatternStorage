@@ -28,7 +28,7 @@ Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
 * ### Behavioral Design Pattern<br>
 
   * Iterator Design Pattern
-  * Observer Design Pattern
+  * [Observer Design Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/ObserverDesignPattern)
   * [Chain of Responsibility Design Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/ChainOfResponsibilityDesignPattern)
   * Interpreter Design Pattern
   * Command Design Pattern
