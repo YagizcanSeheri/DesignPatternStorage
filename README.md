@@ -33,7 +33,7 @@ Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
   * Interpreter Design Pattern
   * Command Design Pattern
   * Memento Design Pattern
-  * Mediator Design Pattern
+  * [Mediator Design Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/MediatorDesignPattern)
   * State Design Pattern
   * Template Method Design Pattern
   * Strategy Design Pattern
