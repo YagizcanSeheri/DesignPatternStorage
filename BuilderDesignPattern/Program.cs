@@ -25,9 +25,36 @@ namespace BuilderDesignPattern
 
             //Console.ReadKey();
             #endregion
-        
+
+            #region Lab_2
+            //ProductDirectory directory = new ProductDirectory();
+            //ProductBuilder builder = new A_ProductBuilder();
+
+            //directory.GenerateProduct(builder);
+
+            //var model = builder.GetModel();
+
+            //Console.WriteLine(model.Id);
+            //Console.WriteLine(model.ProductName);
+            //Console.WriteLine(model.UnitPrice);
+            //Console.WriteLine(model.DiscountPrice);
+            //Console.WriteLine(model.DiscountedApplied);
+
+            //Console.ReadKey();
+            #endregion
+
+            #region Lab_3
+            //KrediKartıBuilder gercekKart = new AmericanExpressKartBuilder();
+            //KrediKartDictory kullan = new KrediKartDictory();
+            //kullan.KartKullan(gercekKart);
+
+            //Console.WriteLine(gercekKart.Kart.ToString());
+
+            //Console.ReadKey();
+            #endregion
+
         }
-        
+
     }
     
 }

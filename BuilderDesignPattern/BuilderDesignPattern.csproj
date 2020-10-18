@@ -48,6 +48,16 @@
     <Compile Include="Lab_1\Concrete\Builder_2.cs" />
     <Compile Include="Lab_1\Delegate\Product.cs" />
     <Compile Include="Lab_1\Directories\Directory.cs" />
+    <Compile Include="Lab_2\Abstraction\ProductBuilder.cs" />
+    <Compile Include="Lab_2\Concrete\A_ProductBuilder.cs" />
+    <Compile Include="Lab_2\Delegate\ProductModel.cs" />
+    <Compile Include="Lab_2\Directories\ProductDirectory.cs" />
+    <Compile Include="Lab_3\Abstraction\KrediKartiBuilder.cs" />
+    <Compile Include="Lab_3\Concrete\AMEXKartBuilder.cs" />
+    <Compile Include="Lab_3\Concrete\MasterKartBuilder.cs" />
+    <Compile Include="Lab_3\Concrete\VisaKartBuilder.cs" />
+    <Compile Include="Lab_3\Delegate\KrediKarti.cs" />
+    <Compile Include="Lab_3\Directories\KrediKartiDirectory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
