@@ -29,7 +29,7 @@ Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
 
   * Iterator Design Pattern
   * Observer Design Pattern
-  * Chain of Responsibility Design Pattern
+  * [Chain of Responsibility Design Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/ChainOfResponsibilityDesignPattern)
   * Interpreter Design Pattern
   * Command Design Pattern
   * Memento Design Pattern
