@@ -44,7 +44,7 @@ namespace BuilderDesignPattern
             #endregion
 
             #region Lab_3
-            //KrediKartıBuilder gercekKart = new AmericanExpressKartBuilder();
+            //KrediKartıBuilder gercekKart = new AMEXKartBuilder();
             //KrediKartDictory kullan = new KrediKartDictory();
             //kullan.KartKullan(gercekKart);
 
