@@ -48,6 +48,21 @@ namespace ChainOfResponsibilityDesignPattern
 
             //Console.ReadKey();
             #endregion
+
+            #region Lab_3
+            //Manager manager = new Manager();
+            //VicePresident vicePresident = new VicePresident();
+            //President president = new President();
+
+            //manager.SetSuccessor(vicePresident);
+            //vicePresident.SetSuccessor(president);
+
+            //Expense expense = new Expense { Amount = 1500, Detail = "Course" };
+
+            //manager.HandleExpense(expense);
+
+            //Console.ReadKey();
+            #endregion
         }
     }
 }

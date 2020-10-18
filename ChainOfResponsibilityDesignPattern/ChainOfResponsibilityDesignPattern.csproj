@@ -48,6 +48,11 @@
     <Compile Include="Lab_2\Concrete\HandlerAvi.cs" />
     <Compile Include="Lab_2\Concrete\HandlerMp3.cs" />
     <Compile Include="Lab_2\Concrete\HandlerMp4.cs" />
+    <Compile Include="Lab_3\Abstraction\ExpenseHandlerBase.cs" />
+    <Compile Include="Lab_3\Concrete\Manager.cs" />
+    <Compile Include="Lab_3\Concrete\President.cs" />
+    <Compile Include="Lab_3\Concrete\VicePresident.cs" />
+    <Compile Include="Lab_3\Model\Expense.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -57,5 +62,6 @@
   <ItemGroup>
     <Content Include="ReadMe.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
