@@ -18,7 +18,7 @@ Kitaplarında 3 kategoride 23 farklı kalıba yer vermişlerdir.
   * [Adapter Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/AdapterDesignPattern)<br>
   * [Bridge Design Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/BridgeDesignPattern)<br>
   * Composite Pattern
-  * Decorator Pattern
+  * [Decorator Pattern](https://github.com/YagizcanSeheri/DesignPatternStorage/tree/master/DecoratorDesignPattern)
   * Facade Pattern
   * Flyweight Pattern
   * Proxy Pattern
