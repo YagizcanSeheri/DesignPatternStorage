@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MediatorDesignPattern.Lab_3;
+using MediatorDesignPattern.Lab_3.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +26,46 @@ namespace MediatorDesignPattern
             //merkez_2.Gonder("Eksikler tamamlandı");
             //arabulucu.Engellenmemis(sube_1.TeslimAlma);
             //merkez_1.Gonder("Hepinize teşekür ederim..!");
+
+            //Console.ReadKey();
+            #endregion
+
+            #region Lab_2
+            //IChatMediator chatMediator = new ChatMediator();
+            //IUser yagizcan = new BasicUser(chatMediator, "Yagizcan");
+            //IUser berk = new PremiumUser(chatMediator, "Berk");
+            //IUser yagiz = new PremiumUser(chatMediator, "Yagiz");
+
+            //chatMediator.AddUser(yagizcan);
+            //chatMediator.AddUser(berk);
+            //chatMediator.AddUser(yagiz);
+
+            //yagiz.SendMessage("Selam Arkadaslar!");
+
+            //Console.ReadKey();
+            #endregion
+
+            #region Lab_3
+            //CoreMediator mediator = new CoreMediator();
+
+            //Teacher teacher = new Teacher(mediator);
+            //teacher.Name = "Yagiz";
+
+            //Student student = new Student(mediator);
+            //student.Name = "Tembel berk";
+
+
+            //Student student_1 = new Student(mediator);
+            //student.Name = "Tembel yagizcan";
+
+            //mediator.student = new List<Student> { student, student_1 };
+
+            //student.SendQuestion("Soru");
+            //teacher.AnswerQuestion("Cevap", student);
+
+            //Console.WriteLine("====================");
+            //teacher.ReceiveQustion("pişt", student_1);
+            //teacher.AnswerQuestion("hoop", student_1);
 
             //Console.ReadKey();
             #endregion

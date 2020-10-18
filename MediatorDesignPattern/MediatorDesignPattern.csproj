@@ -46,6 +46,15 @@
     <Compile Include="Lab_1\BaseColleauge\MainColleauge.cs" />
     <Compile Include="Lab_1\BaseMediator\Arabulucu.cs" />
     <Compile Include="Lab_1\Colleauge\Colleague_A.cs" />
+    <Compile Include="Lab_2\Abstraction\IChatMediator.cs" />
+    <Compile Include="Lab_2\Abstraction\IUser.cs" />
+    <Compile Include="Lab_2\Concrete\BasicUser.cs" />
+    <Compile Include="Lab_2\Concrete\ChatMediator.cs" />
+    <Compile Include="Lab_2\Concrete\PremiumUser.cs" />
+    <Compile Include="Lab_3\Abstraction\AssignedCourseMember.cs" />
+    <Compile Include="Lab_3\Concrete\Student.cs" />
+    <Compile Include="Lab_3\Concrete\Teacher.cs" />
+    <Compile Include="Lab_3\CoreMediator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
