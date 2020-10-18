@@ -47,6 +47,10 @@
     <Compile Include="Lab_1\Concrete\CustomerObserver.cs" />
     <Compile Include="Lab_1\Concrete\EmployeeObserver.cs" />
     <Compile Include="Lab_1\EventManager\ProductManager.cs" />
+    <Compile Include="Lab_2\Abstraction\IMember.cs" />
+    <Compile Include="Lab_2\Abstraction\Product.cs" />
+    <Compile Include="Lab_2\Concrete\ConcreteMember.cs" />
+    <Compile Include="Lab_2\Concrete\ConcreteProduct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
