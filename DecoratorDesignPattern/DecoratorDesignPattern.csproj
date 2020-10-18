@@ -48,6 +48,11 @@
     <Compile Include="Lab_1\Concrete\Bilesen.cs" />
     <Compile Include="Lab_1\Concrete\Decorator_A.cs" />
     <Compile Include="Lab_1\Concrete\Decorator_B.cs" />
+    <Compile Include="Lab_2\Abstraction\CarBase.cs" />
+    <Compile Include="Lab_2\Abstraction\CarDecoratorBase.cs" />
+    <Compile Include="Lab_2\Concrete\HireOffer.cs" />
+    <Compile Include="Lab_2\Concrete\SedanCar.cs" />
+    <Compile Include="Lab_2\Concrete\SUV.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -36,6 +36,17 @@ namespace DecoratorDesignPattern
             //Console.ReadKey();
 
             #endregion
+            #region Lab_2
+            //var myCar = new SUV { Make = "Mercedes", Model = "2019 XC180", HirePrice = 3800 };
+
+            //HireOffer hireOffer = new HireOffer(myCar);
+            //hireOffer.DiscountPercentage = 10;
+
+            //Console.WriteLine("First Hire Price: {0}", myCar.HirePrice);
+            //Console.WriteLine("Discount Applied: {0}", hireOffer.HirePrice);
+
+            //Console.ReadKey();
+            #endregion
         }
     }
 }
