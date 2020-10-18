@@ -1,0 +1,5 @@
+﻿Mediator Design Pattern
+
+Çalışmaları birbirleri ile aynı arayüzden türeyen nesnelerin durumlarına bağlı olan nesnelerin davranışlarını düzenleyen tasarım desenidir.Aracı kalıbı genel olarak nesnelerin yönetimi, aralarındaki iletişimin merkezi bir noktadan sağlanması ve yönetilmesi için kullanılır. Bu nesneler arasındaki bağı azaltmakta ve sadece bir sınıfı, yönetici sınıf olarak diğer sınıfların koordine edilmesinden sorumlu kılar.
+
+Kalıp genellikle yazılan programın sınıf sayısı kadar kullanılır. Çok gelişmiş programlarda sınıflar arasında iletişim gittikçe daha da karmaşık bir hal alır ve kodun ilerlemesi ile okunaklılığı da bundan etkilenir. Aracı kalıbı kullanıldığında ise iletişim sınıflar arasında doğrudan sağlanmaz. Sınıflar arasında aracı kalıbı bulunur ve sınıfları yönetir. Böylece nesneler arası bağımlılık azalır ve program yönetilmeye ve geliştirilmeye daha elverişli hale gelir. Kısacası arabulucu tasarım deseni, sınıflar arasındaki bağımlılıkları azaltmak ve aralarındaki iletişimi kolaylaştırmak için kullanılır.
